@@ -1,0 +1,15 @@
+{
+  "name": "jd-price-protect",
+  "version": "1.0.0",
+  "description": "京东自动保价神器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "137602812@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "puppeteer": "^0.12.0"
+  }
+}
