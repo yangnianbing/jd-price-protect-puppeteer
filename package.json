@@ -1,6 +1,6 @@
 {
   "name": "jd-price-protect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "京东自动保价神器",
   "main": "index.js",
   "bin": "index.js",
